@@ -18,3 +18,4 @@ Use Case Diagram:
 <img width="1686" height="1268" alt="GreenCampus System" src="https://github.com/user-attachments/assets/e830a756-8f9c-4d92-b137-71e113c4ff1c" />
 
 Commit 1: Initialize project structure and create basic HTML interface
+Commit 2: Implement action logging functionality using JavaScript

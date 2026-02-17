@@ -19,3 +19,4 @@ Use Case Diagram:
 
 Commit 1: Initialize project structure and create basic HTML interface
 Commit 2: Implement action logging functionality using JavaScript
+Commit 3: Add green stars counter and update display logic

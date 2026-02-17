@@ -18,3 +18,9 @@ Use Case Diagram:
 <img width="1686" height="1268" alt="GreenCampus System" src="https://github.com/user-attachments/assets/e830a756-8f9c-4d92-b137-71e113c4ff1c" />
 
 Commit 1: Initialize project structure and create basic HTML interface
+Commit 2: Implement action logging functionality using JavaScript
+Commit 3: Add green stars counter and update display logic
+Commit 4: Save actions and points so they are not lost on refresh
+Commit 5: Add basic styling and improve user interface
+Commit 6: Add reset button to clear actions and green points
+

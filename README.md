@@ -21,4 +21,5 @@ Commit 1: Initialize project structure and create basic HTML interface
 Commit 2: Implement action logging functionality using JavaScript
 Commit 3: Add green stars counter and update display logic
 Commit 4: Save actions and points so they are not lost on refresh
+Commit 5: Add basic styling and improve user interface
 
